@@ -9,5 +9,6 @@ I was inspired by [Diana Smith's](https://diana-adrianne.com/) series of CSS pai
 
 I initially sought to adhere to Smith's rules, trying to keep the painting "pure." For the purposes of time, sanity, and accurate reproduction, I created SVGs in Adobe Illustrator to create cut paths (or "rivers") through the shapes to reveal the text below.
 
+https://kaylendwyer.github.io/ahumandocument.html
 
 
