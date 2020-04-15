@@ -44,16 +44,14 @@
                            </div>
                            <div class="outline"></div>
                            <div id="border"> 
-                               <div class="Humument stroke s2" id="border-left"></div>
+                               <div class="stroke s2" id="border-left"></div>
                                <div class="stroke s3 gradient" id="border-bottom"></div>
                                <div class="stroke s4 gradient" id="border-bottom-2"></div>
                                <div class="stroke s5 gradient" id="border-bottom-3"></div>
                                <div class="stroke s6 gradient" id="border-bottom-4"></div>
                                <div class="stroke s7 gradient" id="border-right"></div>
                                <div class="stroke s8 gradient" id="border-right-4"></div>
-                               
                                <div class="stroke s9 gradient" id="border-right-6"></div>
-                               
                                <div class="stroke s10 gradient" id="border-right-8"></div>
                                <div class="stroke s11 gradient" id="border-right-8"></div>
                                <div class="stroke s12 gradient clip" id="border-top">
