@@ -29,7 +29,6 @@
                        <h1 class="title">A Human Document.</h1>
                        <hr color="black" size="1.25" width="60px"/>
                        <h2>Introduction.</h2>
-                       
                        <div class="text">
                            <div class="Humument">
                            <div class="overlay-blue clip">
@@ -79,10 +78,7 @@
                                </div>
                                
                                <div class="stroke s14" id="triangle-bottom-angle"></div>
-                               
-                               
-                               <div class="stroke s15 gradient" id="bottom_angle"></div>
-                               
+                               <div class="stroke s15 gradient" id="bottom_angle"></div>    
                                <div class="stroke s16 gradient" id="midline">
                                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                        viewBox="0 0 500 25" width="100%">
@@ -110,6 +106,5 @@
                </div>
          </div> 
     </div>
-    
 </body>
 </html>
