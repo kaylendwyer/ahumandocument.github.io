@@ -1,6 +1,6 @@
-# A Hum/\*uman Doc\*/ument: A CSS Reproduction of Tom Phillips’s *A Humument*
+# A Hum/\*uman Doc\*/ument: A CSS Reproduction of Tom Phillips’ *A Humument*
 
-This is a digital encoding of Tom Phillips's *A Humument* using HTML and CSS. 
+This is a digital encoding of Tom Phillips' *A Humument* using HTML and CSS. 
 
 I was inspired by [Diana Smith's](https://diana-adrianne.com/) series of CSS paintings, completed under the restrictions that:  
 1. All elements must be typed out by hand.
