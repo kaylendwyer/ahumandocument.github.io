@@ -1,4 +1,4 @@
-# A Hum[uman Doc]ument: An Interactive CSS Painting
+# A Hum/*uman Doc*/ument: An Interactive CSS Painting
 
 This is a digital encoding of Tom Phillips's *A Humument* using HTML and CSS. 
 
