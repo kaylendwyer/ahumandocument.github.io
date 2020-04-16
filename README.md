@@ -1,4 +1,4 @@
-# A Hum/\*uman Doc\*/ument: A CSS Reproduction of Tom Phillips’s A Humument
+# A Hum/\*uman Doc\*/ument: A CSS Reproduction of Tom Phillips’s *A Humument*
 
 This is a digital encoding of Tom Phillips's *A Humument* using HTML and CSS. 
 
